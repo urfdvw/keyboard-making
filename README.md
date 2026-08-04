@@ -62,6 +62,7 @@ In the second build, I want to challenge myself to try some other layouts. I am 
 
 The ideas are similar to the ones above:
 - using a regular keycap set, but arranged in an ortholinear layout
+    - rows are offset so the alpha columns line up despite the standard modifier widths
 - there is space for ESC, so why not add it back
     - note that the touch button is still there, so I can use it as a macro button
 - no space for macro keys, but the macro layer key can be there.
