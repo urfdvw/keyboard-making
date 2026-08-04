@@ -22,6 +22,8 @@ During the project I learned a lot of lessons:
 
 ## The Specs
 
+I am making two builds. They are identical in everything below except the layout.
+
 - two 60+% layouts
     - one customized typewriter
     - one ortholinear
