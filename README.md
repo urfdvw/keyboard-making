@@ -22,9 +22,7 @@ During the project I learned a lot of lessons:
 
 ## The Specs
 
-I am making two builds. They are identical in everything below except the layout.
-
-- two 60+% layouts
+- 60%+ layout
 - reverse slope for ergo gesture
 - with regular keycap and stabilizer sizes (for lower cost)
 - use PCB for the circuit, plate, and also the case.
