@@ -52,7 +52,7 @@ The ideas are:
 - the Mn (Macro layer) and M1~M4 (macro keys) are at the positions of the trackball and OLED in the last version.
 - ESC is not on the layout because it will be on the side panel as a touch button
 
-The raw text of the two layouts is in the ./layouts/ folder.
+The raw text of the layout is in the ./layouts/ folder.
 
 ## The Show and Tell
 
